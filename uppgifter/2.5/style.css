@@ -1,0 +1,22 @@
+.box1{
+    padding: 50px;
+    color: white;
+    background-color:red;
+    
+}
+
+.box2{
+    margin: 20px 50px 20px 50px;
+    background-color:green;
+}
+
+.box3{
+    width: 50%;
+    height: 40vh;
+    color: white;
+    background-color:blue;
+}
+h1 {
+    font-size: 30px;
+    color:white
+}
