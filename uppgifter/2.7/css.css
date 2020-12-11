@@ -1,0 +1,35 @@
+.box1 {
+    width: 100%;
+    color: white;
+    background-color: black;
+    margin-bottom: 20px;
+}
+
+
+.box2 {
+    width: 50%;
+    color: white;
+    background-color: rgb(102, 100, 100);
+    margin-bottom: 20px;
+}
+
+.box3 {
+    width: 25%;
+    color: black;
+    background-color: rgb(182, 179, 179);
+    margin-bottom: 20px;
+}
+
+.box4 {
+    width: 500px;
+    color: white;
+    background-color: red;
+    margin-bottom: 20px;
+}
+
+.box5 {
+    width: 250px;
+    color: white;
+    background-color: blue;
+    margin-bottom: 20px;
+}
