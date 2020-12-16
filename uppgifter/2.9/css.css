@@ -1,0 +1,15 @@
+.box1{
+    height: 400px;
+    width: 500px;
+    color: black;
+    background-color:red;
+
+}
+
+.box2{
+    width: 50%;
+    height: 50%;
+    background-color: black;
+    color: white;
+
+}  
