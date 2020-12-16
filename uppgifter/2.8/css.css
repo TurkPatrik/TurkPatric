@@ -1,0 +1,39 @@
+.margin{
+    height: 40px;
+    width: 200px;
+    color: white;
+    background-color: black;
+    margin: 20px;
+}
+
+.padding{
+    height: 40px;
+    width: 200px;
+    color: white;
+    background-color: black;
+    padding: 20px;
+}
+
+.border{
+    height: 40px;
+    width: 200px;
+    color: white;
+    background-color: black;
+    border: solid ;
+    border-width: 10px;
+    border-color: red;
+}
+
+.allt{
+    height: 40px;
+    width: 200px;
+    color: white;
+    background-color: black;
+    border: solid ;
+    border-width: 10px;
+    border-color: red;
+    margin: 20px;
+    padding: 20px;
+}
+
+
