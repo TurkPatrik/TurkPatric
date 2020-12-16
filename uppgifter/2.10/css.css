@@ -1,0 +1,13 @@
+.papp{
+    width: 500px;
+    height: 250px;
+    display: flex;
+}
+
+.box1{
+    color: black;
+    background-color: white;
+    border: solid;
+    width: 100%;
+    height: 100%;
+}
